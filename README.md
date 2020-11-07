@@ -1,4 +1,5 @@
 # Include-sort (Сортировка включением)
 
 Код написан на C++
-Author: @rfpanda
+
+Author: @rfpanda | t.me/rfpanda
